@@ -1,0 +1,1 @@
+export const OK_REQUEST_CODE_NUMBER = 200;
