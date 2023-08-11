@@ -53,6 +53,7 @@ NodeJs Boilerplate With Express And Its Body Parser Axios Jest Eslint Prettier E
 - Express
 - Express Body Parser
 - Express Public Directory
+- Axios
 
 <br />
 
