@@ -1,5 +1,5 @@
 <h1 align="center">
-NodeJs Boilerplate w Express And Its Body Parser Axios Jest Eslint Prettier EditorConfig Configured
+NodeJs Boilerplate With Express And Its Body Parser Axios Jest Eslint Prettier EditorConfig Configured
 </h1>
 
 <br />
